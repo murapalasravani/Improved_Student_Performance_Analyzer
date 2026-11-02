@@ -8,6 +8,14 @@ The Student Performance Analyzer helps analyze student records from CSV files an
 
 It performs data cleaning, handles missing values, calculates academic performance metrics, assigns grades, and allows users to explore student results using filters and visualizations.
 
+## 🚀 Live Demo
+
+Try my Student Performance Analyzer application:
+
+👉 [Open Student Performance Analyzer](https://wzmcdmdmpzlvb98kej9agh.streamlit.app/)
+
+Built using Python, Pandas, and Streamlit.
+
 ## ✨ Key Features
 
 - **CSV Data Handling:** Reads student records from CSV files using Pandas.
