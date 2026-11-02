@@ -1,0 +1,4 @@
+Required python libraries are:
+*Pandas
+*streamlit
+*numpy
